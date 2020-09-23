@@ -1,0 +1,9 @@
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\bin\Debug\netcoreapp3.1\DBConnect.deps.json
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\bin\Debug\netcoreapp3.1\DBConnect.dll
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.csprojAssemblyReference.cache
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.AssemblyInfo.cs
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\bin\Debug\netcoreapp3.1\DBConnect.pdb
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.dll
+C:\Users\111\source\repos\SerialToMySQL\DBConnect\obj\Debug\netcoreapp3.1\DBConnect.pdb
